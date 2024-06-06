@@ -18,7 +18,5 @@ h_tp:hopen 5010;
     }
 
 upd:`trade`quote!(.cep.updTrade;.cep.updQuote)
-
 h_tp"(.u.sub[`;`])";
-
 .u.end:{}

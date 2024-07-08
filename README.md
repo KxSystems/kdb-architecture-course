@@ -1,6 +1,11 @@
-# kdb Architecture
+# kdb+ Architecture
 
-This repo contains sample kdb architecture for building a kdb application for capturing real time streaming data. This repo accompanies the online training course on the KX Academy.
+This repo contains sample kdb+ architecture for building a kdb+ application for capturing real time streaming data. This repo accompanies the online training course on the [KX Academy](https://learninghub.kx.com/courses/kdb-architecture/). 
+
+## Prerequisites
+
+- If you run this application using the free sandbox provided on the KX Academy - then there are no prerequisites needed.
+- If you clone this repository to your local environment, you will need to have kdb+ installed with a valid license and the `q` alias set to invoke kdb+ as per [these instructions](https://code.kx.com/q/learn/install/#step-5-edit-your-profile).
 
 ## 1. Quickstart
 ```

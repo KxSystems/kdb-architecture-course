@@ -5,7 +5,7 @@ This repo contains sample kdb+ architecture for building a kdb+ application for 
 ## Prerequisites
 
 - If you run this application using the free sandbox provided on the KX Academy - then there are no prerequisites needed.
-- If you clone this repository to your local environment, you will need to have kdb+ installed with a valid license and the `q` alias set to invoke kdb+ as per [these instructions](https://code.kx.com/q/learn/install/#step-5-edit-your-profile).
+- If you clone this repository to your local environment, you will need to have KDB-X Community Edition installed with a valid license and the `q` alias set to invoke kdb+ as per [the instructions on this page](https://code.kx.com/kdb-x/get_started/kdb-x-install.html#online-installation-recommended).
 
 ## 1. Quickstart
 ```
